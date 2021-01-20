@@ -5,4 +5,5 @@ específicamente en Macuto, pero actualmente vive en Caracas
 
 Hoy hablaremos de su historia.
 
-Estudia ingeniería informática en la UCAB
+Estudia ingeniería informática en la UCAB,
+Hoy está haciendo el curso de Git y GitHub en Platzi
