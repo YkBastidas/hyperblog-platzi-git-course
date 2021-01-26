@@ -52,6 +52,13 @@ body
     padding: 1em;
 }
 
+#git-commands
+{
+    background-color: #e9e8e0;
+    color: #f14e32;
+    padding: 0 5px;
+}
+
 #footer
 {
     background: #777;
